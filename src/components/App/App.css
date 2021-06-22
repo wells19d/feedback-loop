@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #033076;
+  min-height: 70px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.App-title {
+  font-size: 3em;
+}
+
+.App-subtitle{
+  font-size: 1.25em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+h4 {
+  font-style: italic;
+  font-size: 18px;
+}
+
+h5{
+  font-size: 16px;;
+}
+
+.next-btn {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #033076;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.form-rating {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text-field{
+  width: 400px;
+  height: 100px;
+}
+
+.review-1{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.review-2{
+  color: blue;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.trash-btn{
+  background-image: url("../Admin/images/trash.png");
+  width: 40px;
+  height: 35px;
+}
+
+.admin_table{
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.admin_head{
+  background-color: gray;
+  border: solid black 2px;
+  width: 100px;
+}
+
+.comments-head{
+  background-color: gray;
+  border: solid black 2px;
+  width: 600px;
+  padding-left: 10px;
+}
+
+.delete-head{
+  background-color: gray;
+  border: solid black 2px;
+  padding: 0px;
+}
+
+.admin_line{
+  border: solid black 2px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.comments{
+  border: solid black 2px;
+  width: 600px;
+  padding-left: 10px;
+}
+
+.delete{
+  border: solid black 2px;
+  padding: 0px;
+}
